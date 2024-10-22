@@ -1,0 +1,42 @@
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.exe
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.deps.json
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.runtimeconfig.json
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.dll
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.pdb
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.csproj.AssemblyReference.cache
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0_MarkupCompile.cache
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0_MarkupCompile.lref
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.g.resources
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.AssemblyInfoInputs.cache
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.AssemblyInfo.cs
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.csproj.CoreCompileInputs.cache
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.dll
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\refint\miejsce_0.dll
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.pdb
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.genruntimeconfig.cache
+C:\Users\egzamin\Desktop\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\ref\miejsce_0.dll
+F:\mobilne - galach\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.exe
+F:\mobilne - galach\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.deps.json
+F:\mobilne - galach\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.runtimeconfig.json
+F:\mobilne - galach\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.dll
+F:\mobilne - galach\miejsce_0\miejsce_0\bin\Debug\net7.0-windows\miejsce_0.pdb
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\App.g.cs
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0_MarkupCompile.cache
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0_MarkupCompile.lref
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\MainWindow.baml
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.g.resources
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.GeneratedMSBuildEditorConfig.editorconfig
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.AssemblyInfoInputs.cache
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.AssemblyInfo.cs
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.csproj.CoreCompileInputs.cache
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.dll
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\refint\miejsce_0.dll
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.pdb
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.genruntimeconfig.cache
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\ref\miejsce_0.dll
+F:\mobilne - galach\miejsce_0\miejsce_0\obj\Debug\net7.0-windows\miejsce_0.csproj.AssemblyReference.cache
